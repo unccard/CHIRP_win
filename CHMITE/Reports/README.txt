@@ -1,0 +1,1 @@
+This folder can be used to store reports as csv files.  A report calculates the scores for the current set of recording evaluations.  Each report is just a snapshot in time, so the filename is made unique by including a timestamp in the filename.

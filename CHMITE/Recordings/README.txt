@@ -1,0 +1,2 @@
+This directory contains a folder per subject, identified by subject number.  A subject's folder contains:
+-A folder per recording session, identified by timestamp.  This folder contains the wav files from the recording session.
