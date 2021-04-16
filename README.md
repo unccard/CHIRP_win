@@ -8,11 +8,11 @@ MSE is the simpler of the parts, consisting of only one program (run_MSE_record)
 
 CHMIT-E itself has several sub-modules and was designed to record words produced by a participant/client (run_CHMITE_record), evaluate/transcribe those words by a listener (run_CHMITE_Assign, run_CHMITE_Eval, and output a report of results (run_CHMITE_Report). More details on each of these can be found in release notes in a word doc. Details on the construction of the test are found elsewhere (see Haley et al., 2011), but briefly the test consists of 50 sets of 12 words, each set containing phonetically-similar words. For each administration, one word is randomly selected from each set, generating a list of 50 words.
 
-All of the programs were originally written in matlab, but were compiled for use without the full matlab program plus various toolboxes. However, the matlab compiler runtime program from Matlab vs. 2014b (MCR ver. 8.4) is required for use. The link to download this file is below. If this link becomes defunct, let us know at card@med.unc.edu and we can help.
+All of the programs were originally written in matlab, but were compiled for use without the full matlab program plus various toolboxes. However, the matlab compiler runtime program from Matlab ver. 2020b (MCR ver. 9.9) is required for use. The link to download this file is below. If this link becomes defunct, let us know at card@med.unc.edu and we can help.
 
-https://ssd.mathworks.com/supportfiles/downloads/R2014b/deployment_files/R2014b/installers/win64/MCR_R2014b_win64_installer.exe
+https://ssd.mathworks.com/supportfiles/downloads/R2020b/Release/5/deployment_files/installer/complete/win64/MATLAB_Runtime_R2020b_Update_5_win64.zip
 
-Other bits and pieces: When you first try to run each program, you will get an error because we are an unidentified developer. After trying to run a program and it gives an error, you can allow the program to be run by right-clicking on the program, clicking properties, and selecting "unblock" at the bottom of the dialog.
+Other bits and pieces: When you first try to run each program, you may get an error because we are an unidentified developer. After trying to run a program and it gives an error, you can allow the program to be run by right-clicking on the program, clicking properties, and selecting "unblock" at the bottom of the dialog.
 
 Let us know how this works for you- please update us with any problems or glitches.
 
